@@ -1,6 +1,6 @@
 # eximspam
 ***
-just a couple of simple scripts that identify the spammers in exim mail server :)
+just a couple of simple scripts that identify spammers in the exim mail server :)
 ***
 
 ***
