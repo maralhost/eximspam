@@ -1,0 +1,1 @@
+curl -s https://raw.githubusercontent.com/maralhost/eximspam/master/GiveMeYesterdayLogs.py | python &&  perl <(curl -s https://raw.githubusercontent.com/maralhost/eximspam/master/IdentifySpammers.pl) -s > /tmp/spam_detail.txt
