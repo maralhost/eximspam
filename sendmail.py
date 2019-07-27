@@ -40,7 +40,7 @@ Server hostname => {1}
 Server date => {2}
 """.format(ip,hostname,yesterday_date)
 # Define the main headers.
-part1 = """From: Maralhost <spam@maralhost.com>
+part1 = """From: LocSpammers <spam@maralhost.com>
 To: To Person <spam_analyzers@maralhost.com>
 Subject: Sending Attachement
 MIME-Version: 1.0
