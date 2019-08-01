@@ -7,7 +7,7 @@ email_1 = sys.argv[1]
 #email_1 = sys.argv[2]
 #email_1 = sys.argv[3]
 
-log_path = r"/var/log/exim_mainlog"
+log_path = r"/var/log/exim/mainlog"
 tmp_path = r"/tmp/"
 spam_detection_point = 50
 
