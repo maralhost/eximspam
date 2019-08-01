@@ -24,7 +24,7 @@ receivers.append(recv1)
 receivers.append(recv2)
 receivers.append(recv3)
 
-filename = "/tmp/spam_detail.txt"
+filename = "/tmp/{0}.txt".format(ip)
 
 # Read a file and encode it into base64 format
 fo = open(filename, "rb")
