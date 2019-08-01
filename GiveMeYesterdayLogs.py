@@ -2,7 +2,7 @@ import os
 import urllib2
 from __builtin__ import file
 
-log_path = r"/var/log/exim_mainlog"
+log_path = r"/var/log/exim/mainlog"
 tmp_path = r"/tmp/"
 spam_detection_point = 50
 
